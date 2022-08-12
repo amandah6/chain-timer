@@ -9,7 +9,7 @@ To stop the current timer and start the next one in line, press any button. The 
 
 `chain-timer.sh: line 42:  7261 Killed: 9               start_timer $i`
 
-This can be safely ignored, it happens because each timer process is killed to move onto the next one. In the future I will implement a way to suppress such messages, but it doesn't impact the functioinality of the program so for now I will leave it.
+This can be safely ignored, it happens because each timer process is killed to move onto the next one. In the future I will implement a way to suppress such messages, but it doesn't impact the functionality of the program so for now I will leave it.
 
 
 ## How to use
